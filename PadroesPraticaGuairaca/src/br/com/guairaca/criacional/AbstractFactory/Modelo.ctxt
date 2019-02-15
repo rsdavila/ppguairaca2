@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Modelo
+comment1.params=
+comment1.target=br.com.guairaca.criacional.AbstractFactory.Cachorro\ getCachorro()
+comment2.params=
+comment2.target=br.com.guairaca.criacional.AbstractFactory.Gato\ getGato()
+numComments=3

@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Montadora
+comment1.params=tipo\ modelo
+comment1.target=br.com.guairaca.criacional.Builder.Veiculo\ montar(char,\ java.lang.String)
+numComments=2

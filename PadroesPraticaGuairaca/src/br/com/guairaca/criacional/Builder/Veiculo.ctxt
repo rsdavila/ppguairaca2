@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Veiculo
+comment1.params=modelo\ tipo
+comment1.target=Veiculo(java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getModelo()
+comment3.params=
+comment3.target=java.lang.String\ getTipo()
+numComments=4
